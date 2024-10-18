@@ -1,5 +1,5 @@
 all:
-	gcc cd.c -Wall
+	gcc cd.c -Wall -o cd
 
 git:
 	git add .
